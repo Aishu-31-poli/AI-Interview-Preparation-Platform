@@ -1,0 +1,10 @@
+AI Interview Preparation Platform
+A static frontend project made with HTML, CSS and JavaScript.
+Project files
+- index.html — website structure
+- style.css — styles and responsive layout
+- script.js — question bank, demo registration/login, timed mock interviews, scores, practice questions and local history
+Run in VS Code
+1. Open this folder in VS Code.
+2. Install the Live Server extension.
+3. Right-click index.html and select Open with Live Server.
